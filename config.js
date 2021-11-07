@@ -1,13 +1,13 @@
 const CONFIG = {
     titleWeb: "Gửi crush của tớ",
     introTitle: 'Crush yêu dấu',
-    introDesc: `Trái đất vốn lạ thường <br>
-    Mà sao em cứ đi nhầm đường\n
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^_^HiHi^_^',
+    btnIntro: 'Bấm tiếp vào đây đi hihi ^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🐸',
-    desc: 'Thoát web là chấp nhận yêu tớ rồi nhé !',
+    desc: 'Thoát web là chấp nhận yêu tớ rồi nhé!',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
