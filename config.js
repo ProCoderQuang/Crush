@@ -1,9 +1,9 @@
 const CONFIG = {
     titleWeb: "Gửi crush của tớ",
     introTitle: 'Crush yêu dấu',
-    introDesc: `Trái đất vốn lạ thường/n
-    Mà sao em cứ đi nhầm đường/n
-    Lạc vào tim anh lẻ loi/n
+    introDesc: `Trái đất vốn lạ thường <br>
+    Mà sao em cứ đi nhầm đường\n
+    Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^_^HiHi^_^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🐸',
